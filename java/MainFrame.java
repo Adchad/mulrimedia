@@ -5,6 +5,7 @@ import java.awt.event.*;
 import java.io.IOException;
 import java.net.UnknownHostException;
 
+
 public class MainFrame extends JFrame {
 
     JTextArea title;
